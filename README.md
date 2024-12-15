@@ -55,3 +55,4 @@ Contributions are welcome! Feel free to submit pull requests with enhancements, 
 ## License
 
 This project is open-source and available for educational purposes.
+![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
